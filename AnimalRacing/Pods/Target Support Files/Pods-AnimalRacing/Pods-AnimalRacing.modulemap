@@ -1,0 +1,6 @@
+framework module Pods_AnimalRacing {
+  umbrella header "Pods-AnimalRacing-umbrella.h"
+
+  export *
+  module * { export * }
+}
